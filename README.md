@@ -20,7 +20,7 @@
 - `npm run build` to build final files when you are ready to turn in.
 
 ### Public URL 
-- 
+- https://cse330sleepoutside.netlify.app/
 
 
 ---
