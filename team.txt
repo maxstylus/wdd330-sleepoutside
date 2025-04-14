@@ -1,6 +1,37 @@
 Team Trello: https://trello.com/b/pxC43x2V/sleep-outside-team-solo
 Production URL: https://cse330sleepoutside.netlify.app/
 
+Branching Policy: initials--feature-name
+
+# Create and switch to new branch
+git checkout -b feature-name
+
+# Or create branch without switching to it
+git branch feature-name
+
+# view branches
+local branches: git branch
+local & remote branches: git branch -a
+remote branches: git branch -r
+
+# Show last commit on each branch
+git branch -v
+
+# Show merged branches
+git branch --merged
+
+# Show unmerged branches
+git branch --no-merged
+
+
+Push your branch to the remote repository: 
+git push origin your-branch-name
+
+Adding text to test my new branch. 
+
+
+
+
 
 
 
